@@ -1,1 +1,1 @@
-# ecommerce_ruby_on_rails
+# Ecommerce_ruby_on_rails
